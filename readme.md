@@ -33,7 +33,7 @@ The repository showcases test scripts built for different websites, with an emph
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Selenium_Web_Testing_Practice.git
+git clone https://github.com/razvanalexuc/Selenium_Web_Testing_Practice.git
 ```
 2. Navigate to the project directory:
 ```bash
