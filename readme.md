@@ -32,15 +32,18 @@ The repository showcases test scripts built for different websites, with an emph
 ## Setup
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Selenium_Web_Testing_Practice.git
+```bash
+git clone https://github.com/yourusername/Selenium_Web_Testing_Practice.git
+```
 2. Navigate to the project directory:
-  ```bash
-  cd Selenium_Web_Testing_Practice
-
+```bash
+cd Selenium_Web_Testing_Practice
+```
+  
 3. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ## Test Cases
 
@@ -78,7 +81,7 @@ To run the tests, execute the individual test files using Python:
   python testpractice_blogspot.py
   python usv_page_object.py
   python testautomation_page_object.py
-
+```
 ## References
 - [Selenium Documentation](https://www.selenium.dev/documentation/)
 - [WebDriver Manager](https://pypi.org/project/webdriver-manager/)
